@@ -11,6 +11,4 @@
 
 <head>
 
-    Hello Man
-
 </head>
